@@ -1,3 +1,17 @@
-If you want to run this code, then your PC must have a VS code and after that you will have to download a file it's called java connecter file.. After that, the person who works on the circle will have to open it and create a database by managing a bus in it. 
+## Getting Started
 
-*** SQL query also included in this code ***
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
